@@ -1,5 +1,7 @@
-package com.socialmedia.backserver;
+package com.socialmedia.backserver.controller;
 
+import com.socialmedia.backserver.model.User;
+import com.socialmedia.backserver.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

@@ -1,4 +1,4 @@
-package com.socialmedia.backserver;
+package com.socialmedia.backserver.service;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 

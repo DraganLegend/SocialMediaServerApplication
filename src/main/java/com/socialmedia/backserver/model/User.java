@@ -1,4 +1,4 @@
-package com.socialmedia.backserver;
+package com.socialmedia.backserver.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

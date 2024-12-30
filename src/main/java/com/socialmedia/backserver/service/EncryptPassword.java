@@ -1,5 +1,4 @@
-package com.socialmedia.backserver;
-import javax.crypto.spec.SecretKeySpec;
+package com.socialmedia.backserver.service;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 public class EncryptPassword {

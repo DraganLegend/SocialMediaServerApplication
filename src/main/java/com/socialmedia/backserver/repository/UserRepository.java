@@ -1,5 +1,6 @@
-package com.socialmedia.backserver;
+package com.socialmedia.backserver.repository;
 
+import com.socialmedia.backserver.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

@@ -1,4 +1,4 @@
-package com.socialmedia.backserver;
+package com.socialmedia.backserver.service;
 import com.opencsv.CSVReader;
 import java.io.FileReader;
 import java.sql.Connection;
